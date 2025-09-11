@@ -13,17 +13,20 @@ Hi, I'm Laura Lodeiro!
 
 <hr>
 
-<div style="background-color:#FFE6F0; padding: 20px; border-radius: 10px; font-size: 16px; line-height: 1.6;">
+<div >
 
 <h2>👋 Sobre mí</h2>
 
-🎓 Soy un <strong>Desarrollador de Software Junior</strong>, recién graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong>.<br>
-💻 Durante mi formación, me especialicé en <strong>Java</strong>, el lenguaje principal del ciclo formativo durante los dos años de estudio.<br>
-🐍 Además, tengo experiencia sólida en <strong>Python</strong>, especialmente trabajando durante 3 meses en proyectos con <strong>Inteligencia Artificial Generativa</strong>.<br>
-📱 También he trabajado con <strong>React Native</strong> y <strong>Spring Boot</strong>, tecnologías que utilicé en el desarrollo de <em>Stayrpe</em>, una aplicación móvil orientada a atletas profesionales de fuerza (proyecto aún en desarrollo).<br>
-🚀 Me interesa el desarrollo de aplicaciones modernas, combinando backend sólido con interfaces móviles eficientes.<br>
-🌱 Actualmente sigo aprendiendo sobre tecnologías backend, inteligencia artificial y desarrollo multiplataforma.<br>
-📫 <strong>Estoy abierto a nuevas oportunidades de prácticas o empleo junior</strong> donde pueda seguir creciendo como profesional.
+🎓 Soy una **Desarrolladora de Software Junior**, graduada en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+🛠️ Durante mis prácticas trabajé con herramientas como GitHub y DevOps, y adquirí conocimientos sobre metodologías ágiles como Scrum.  
+💻 Mis lenguajes principales son **Java** (utilizado durante toda mi formación) y **Python**.  
+🧠 En Python trabajé durante 3 meses en proyectos de **IA generativa**.  
+📱 También tengo experiencia con **React Native** y **Spring Boot**.  
+📲 Tecnologías que use para dessarrollar **Stayrpe**, una app móvil para atletas de fuerza, como proyecto final de ciclo, usando **React Native** y **Spring Boot**, y obtuve matrícula de honor. Actualmente sigue en desarrollo.  
+🚀 Me enfoco especialmente en el desarrollo backend, aunque también cuento con experiencia en tecnologías frontend.  
+🎯 Soy una persona con gran capacidad de aprendizaje y adaptación, y busco un empleo donde pueda crecer profesionalmente.
+
+
 
 </div>
 <hr>
