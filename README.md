@@ -4,18 +4,10 @@ Hi, I'm Laura Lodeiro!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
-	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a>
-</p>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;Python+%26+Java+Enthusiast;Curious+%26+Fast+Learner&center=true&width=600&height=60&color=654321&background=FAF4F0">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;Python+%26+Java+Enthusiast;Curious+%26+Fast+Learner&center=true&width=1000&height=150&color=654321&background=FFC0CB&size=30">
 	</a>
 </p>
 
