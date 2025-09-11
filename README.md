@@ -13,18 +13,19 @@ Hi, I'm Laura Lodeiro!
 
 <hr>
 
-<pre>
-## 👋 Sobre mí
+<div style="background-color:#FFE6F0; padding: 20px; border-radius: 10px; font-size: 16px; line-height: 1.6;">
 
-🎓 Soy un **Desarrollador de Software Junior**, recién graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-💻 Durante mi formación, me especialicé en **Java**, el lenguaje principal del ciclo formativo durante los dos años de estudio.  
-🐍 Además, tengo experiencia sólida en **Python**, especialmente trabajando durante 3 meses en proyectos con **Inteligencia Artificial Generativa**.  
-📱 También he trabajado con **React Native** y **Spring Boot**, tecnologías que utilicé en el desarrollo de **Stayrpe**, una aplicación móvil orientada a atletas profesionales de fuerza (proyecto aún en desarrollo).  
-🚀 Me interesa el desarrollo de aplicaciones modernas, combinando backend sólido con interfaces móviles eficientes.  
-🌱 Actualmente sigo aprendiendo sobre tecnologías backend, inteligencia artificial y desarrollo multiplataforma.  
-📫 **Estoy abierto a nuevas oportunidades de prácticas o empleo junior** donde pueda seguir creciendo como profesional.
+<h2>👋 Sobre mí</h2>
 
-</pre>
+🎓 Soy un <strong>Desarrollador de Software Junior</strong>, recién graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong>.<br>
+💻 Durante mi formación, me especialicé en <strong>Java</strong>, el lenguaje principal del ciclo formativo durante los dos años de estudio.<br>
+🐍 Además, tengo experiencia sólida en <strong>Python</strong>, especialmente trabajando durante 3 meses en proyectos con <strong>Inteligencia Artificial Generativa</strong>.<br>
+📱 También he trabajado con <strong>React Native</strong> y <strong>Spring Boot</strong>, tecnologías que utilicé en el desarrollo de <em>Stayrpe</em>, una aplicación móvil orientada a atletas profesionales de fuerza (proyecto aún en desarrollo).<br>
+🚀 Me interesa el desarrollo de aplicaciones modernas, combinando backend sólido con interfaces móviles eficientes.<br>
+🌱 Actualmente sigo aprendiendo sobre tecnologías backend, inteligencia artificial y desarrollo multiplataforma.<br>
+📫 <strong>Estoy abierto a nuevas oportunidades de prácticas o empleo junior</strong> donde pueda seguir creciendo como profesional.
+
+</div>
 <hr>
 
 ## 🤝 Connect with me
