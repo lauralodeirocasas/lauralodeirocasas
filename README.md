@@ -14,14 +14,16 @@ Hi, I'm Laura Lodeiro!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+## 👋 Sobre mí
+
+🎓 Soy un **Desarrollador de Software Junior**, recién graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+💻 Durante mi formación, me especialicé en **Java**, el lenguaje principal del ciclo formativo durante los dos años de estudio.  
+🐍 Además, tengo experiencia sólida en **Python**, especialmente trabajando durante 3 meses en proyectos con **Inteligencia Artificial Generativa**.  
+📱 También he trabajado con **React Native** y **Spring Boot**, tecnologías que utilicé en el desarrollo de **Stayrpe**, una aplicación móvil orientada a atletas profesionales de fuerza (proyecto aún en desarrollo).  
+🚀 Me interesa el desarrollo de aplicaciones modernas, combinando backend sólido con interfaces móviles eficientes.  
+🌱 Actualmente sigo aprendiendo sobre tecnologías backend, inteligencia artificial y desarrollo multiplataforma.  
+📫 **Estoy abierto a nuevas oportunidades de prácticas o empleo junior** donde pueda seguir creciendo como profesional.
+
 </pre>
 <hr>
 
