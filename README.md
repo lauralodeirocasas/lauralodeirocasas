@@ -116,7 +116,7 @@ Hi, I'm Laura Lodeiro!
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauralodeirocasas&langs_count=8&layout=compact" alt="bouaskaoun">
 	</a>
 	<br/>
 <br/>
