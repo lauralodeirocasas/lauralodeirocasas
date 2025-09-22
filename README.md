@@ -56,6 +56,7 @@ Hola, Soy Laura Lodeiro!
    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white"></a>
 <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23E64A19.svg?logo=hibernate&logoColor=white"></a>
+<a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white"></a>
 
 
 </p>
@@ -77,6 +78,7 @@ Hola, Soy Laura Lodeiro!
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-%23000000.svg?logo=openai&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
 
 </p>
 </br>
