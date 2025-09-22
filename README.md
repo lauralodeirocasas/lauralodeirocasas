@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Laura Lodeiro!
+Hola, Soy Laura Lodeiro!
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -32,12 +32,11 @@ Hi, I'm Laura Lodeiro!
 </div>
 <hr>
 
-## 🤝 Connect with me
+## 🤝 Contacta conmigo
 <p align="center">
 	<a href="mailto:lauralodeirocasass@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/laura-lodeiro-casas-a6a174385/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+
 </p>
 
 ## 🛠️ My Favorite Tools
