@@ -7,8 +7,9 @@ Hi, I'm Laura Lodeiro!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;Python+%26+Java+Enthusiast;Curious+%26+Fast+Learner&center=true&width=1000&height=150&color=654321&background=FFC0CB&size=30">
-	</a>
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Desarrolladora+de+Software+Junior;Especializada+en+Backend+con+Java+y+Spring+Boot;Experiencia+en+Python+e+IA+Generativa;Aprendo+rápido+y+adaptable+a+nuevas+tecnologías&center=true&width=1000&height=150&color=2E2E2E&background=F8F4F0&size=30">
+
+
 </p>
 
 <hr>
