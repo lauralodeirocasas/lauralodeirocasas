@@ -23,7 +23,7 @@ Hola, Soy Laura Lodeiro!
 💻 Mis lenguajes principales son **Java** (utilizado durante toda mi formación) y **Python**.  
 🧠 En Python trabajé durante 3 meses en proyectos de **IA generativa**.  
 📱 También tengo experiencia con **React Native** y **Spring Boot**.  
-📲 Tecnologías que use para dessarrollar **Stayrpe**, una app móvil para atletas de fuerza, como proyecto final de ciclo, usando **React Native** y **Spring Boot**, y obtuve matrícula de honor. Actualmente sigue en desarrollo.  
+📲 Tecnologías que use para dessarrollar **Stayrpe**, una app móvil para atletas de fuerza, como proyecto final de ciclo, usando **React Native** y **Spring Boot**.Actualmente sigue en desarrollo.  
 🚀 Me enfoco especialmente en el desarrollo backend, aunque también cuento con experiencia en tecnologías frontend.  
 🎯 Soy una persona con gran capacidad de aprendizaje y adaptación, y busco un empleo donde pueda crecer profesionalmente.
 
