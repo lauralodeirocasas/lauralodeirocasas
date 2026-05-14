@@ -53,10 +53,10 @@ Hola, Soy Laura Lodeiro!
 ### 🧰 Frameworks y Librerías
 
 <p>
-   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white"></a>
-<a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?logo=react&logoColor=black"></a>
-<a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23E64A19.svg?logo=hibernate&logoColor=white"></a>
-<a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white"></a>
+ <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white"></a>
+<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
+<a href="#"><img alt="Expo" src="https://img.shields.io/badge/Expo-%23000020.svg?logo=expo&logoColor=white"></a>
 
 
 </p>
