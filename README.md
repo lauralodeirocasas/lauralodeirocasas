@@ -18,14 +18,18 @@ Hola, Soy Laura Lodeiro!
 
 <h2>👋 Sobre mí</h2>
 
-🎓 Soy una **Desarrolladora de Software Junior**, graduada en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-🛠️ Durante mis prácticas trabajé con herramientas como GitHub y DevOps, y adquirí conocimientos sobre metodologías ágiles como Scrum.  
-💻 Mis lenguajes principales son **Java** (utilizado durante toda mi formación) y **Python**.  
-🧠 En Python trabajé durante 3 meses en proyectos de **IA generativa**.  
-📱 También tengo experiencia con **React Native** y **Spring Boot**.  
-📲 Tecnologías que use para dessarrollar **Stayrpe**, una app móvil para atletas de fuerza, como proyecto final de ciclo, usando **React Native** y **Spring Boot**.Actualmente sigue en desarrollo.  
-🚀 Me enfoco especialmente en el desarrollo backend, aunque también cuento con experiencia en tecnologías frontend.  
-🎯 Soy una persona con gran capacidad de aprendizaje y adaptación, y busco un empleo donde pueda crecer profesionalmente.
+🎓 Soy desarrolladora de software junior y estudié Desarrollo de Aplicaciones Multiplataforma (DAM).
+
+💻 Tengo conocimientos en desarrollo web con tecnologías como JavaScript, TypeScript, React, Next.js, Angular, Java y Spring Boot, además de desarrollo móvil con React Native, Expo y Firebase.
+
+🏫 Actualmente trabajo como técnica informática en la Universidade da Coruña, donde continúo desarrollando experiencia en entornos tecnológicos y resolución de incidencias reales.
+
+🛠️ Durante mis prácticas trabajé con Git, GitHub y metodologías ágiles como Scrum, aprendiendo cómo se trabaja dentro de equipos de desarrollo y participando en proyectos reales.
+
+🧠 También participé en proyectos relacionados con IA generativa utilizando Python, lo que me permitió seguir ampliando conocimientos y adaptarme a nuevas tecnologías.
+
+⚡ Me gusta seguir aprendiendo constantemente, enfrentarme a nuevos retos y continuar creciendo profesionalmente dentro del mundo del desarrollo.
+
 
 
 
@@ -35,7 +39,7 @@ Hola, Soy Laura Lodeiro!
 ## 🤝 Contacta conmigo
 <p align="center">
 	<a href="mailto:lauralodeirocasass@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/laura-lodeiro-casas-a6a174385/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="www.linkedin.com/in/laura-lodeiro-casas-a6a174385"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
 
